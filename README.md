@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oscar
+- 👋 Hi, I’m Oscar
 - 👀 I’m interested in Robotics and Computer Science
 - 🌱 I’m currently learning AI, Data Science and Embedded systems
 - 📫 How to reach me a01705935@tec.mx
